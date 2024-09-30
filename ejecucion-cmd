@@ -1,0 +1,7 @@
+# windows - variables entorno - path - ubicacion R
+
+# expresion tipo 
+"Rscript path\to\modelizacion_sn.R SNEV":
+
+# ejecucion en cmd
+Rscript D:\GEOFOREST\TFM\codigo\modelizacion_sn.R SNEV
